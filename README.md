@@ -1,2 +1,2 @@
-# DanielKostroma.github.io
+# Даниил Кострома
 Мой первый сайт
